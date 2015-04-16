@@ -1,0 +1,854 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"entry-",
+				"entry-title"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"padding",
+				"padding-top: "
+			],
+			[
+				"marg",
+				"margin-bottom: "
+			],
+			[
+				"text",
+				"text-indent: "
+			],
+			[
+				"ma",
+				"margin-bottom: "
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"margin",
+				"margin-top: "
+			],
+			[
+				"backg",
+				"background-position: "
+			],
+			[
+				"ba",
+				"background: "
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"rep",
+				"repeat-y"
+			],
+			[
+				"ques",
+				"question-bar-height"
+			],
+			[
+				"qu",
+				"question-bar-height"
+			],
+			[
+				"top",
+				"top-bar-height"
+			],
+			[
+				"logi",
+				"login-button-icon"
+			],
+			[
+				"lo",
+				"login-button-icon"
+			],
+			[
+				"login-",
+				"login-button-google"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"Ser",
+				"ServiceProductFilter"
+			],
+			[
+				"course",
+				"courses_count"
+			],
+			[
+				"Targ",
+				"TargetAudienceCourseFilter"
+			],
+			[
+				"Pr",
+				"PrerequisiteCourseFilter"
+			],
+			[
+				"Obje",
+				"ObjectiveCourseFilter"
+			],
+			[
+				"cour",
+				"courses_link"
+			],
+			[
+				"Pre",
+				"Prerequisite"
+			],
+			[
+				"Equi",
+				"EquipmentScenario"
+			],
+			[
+				"oj",
+				"objects"
+			],
+			[
+				"url",
+				"urlresolvers"
+			],
+			[
+				"all",
+				"allow_tags"
+			],
+			[
+				"lis",
+				"list_sub_courses"
+			],
+			[
+				"get_t",
+				"get_theory_duration"
+			],
+			[
+				"Mate",
+				"MaterialTypeAdmin"
+			],
+			[
+				"Model",
+				"ModelAdmin"
+			],
+			[
+				"Del",
+				"DeliveryStrategyAdmin"
+			],
+			[
+				"Service",
+				"ServiceProduct"
+			],
+			[
+				"mat",
+				"material_type"
+			],
+			[
+				"mate",
+				"material_type_obj"
+			],
+			[
+				"svc_pr",
+				"svc_product_obj"
+			],
+			[
+				"wh",
+				"whatisthis"
+			],
+			[
+				"ServiceProd",
+				"ServiceProductVersion"
+			],
+			[
+				"for",
+				"ForeignKey"
+			],
+			[
+				"so",
+				"solution_version"
+			],
+			[
+				"Target",
+				"TargetAudience"
+			],
+			[
+				"Solu",
+				"SolutionVersion"
+			],
+			[
+				"Prod",
+				"ProductFamily"
+			],
+			[
+				"targe",
+				"TargetAudience"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"pre",
+				"pre_idle_modal"
+			],
+			[
+				"idle_coun",
+				"idle_countdown_timer"
+			],
+			[
+				"modal",
+				"modal_open"
+			],
+			[
+				"docu",
+				"documentElement"
+			],
+			[
+				"get",
+				"getViewportScale"
+			],
+			[
+				"upd",
+				"updateScreenPositions"
+			],
+			[
+				"scrol",
+				"scroll_position"
+			],
+			[
+				"scro",
+				"scroll_pos"
+			],
+			[
+				"to",
+				"touch"
+			],
+			[
+				"move",
+				"moves"
+			],
+			[
+				"vie",
+				"viewport_scale"
+			],
+			[
+				"vi",
+				"viewport_scale"
+			],
+			[
+				"view",
+				"viewport_scale"
+			],
+			[
+				"moni",
+				"monitor_scroll"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"monit",
+				"monitor_click"
+			],
+			[
+				"sc",
+				"scroll_position"
+			],
+			[
+				"go",
+				"go_to_pos"
+			],
+			[
+				"scr",
+				"scroll_w"
+			],
+			[
+				"data",
+				"data_length"
+			],
+			[
+				"cane",
+				"clearInterval"
+			],
+			[
+				"mon",
+				"monitor_scroll"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"mo",
+				"monitor_scroll"
+			],
+			[
+				"da",
+				"data_set"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"is",
+				"is_resizing"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mous",
+				"mouse_control"
+			],
+			[
+				"pa",
+				"parseInt"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"que",
+				"question_pointer"
+			],
+			[
+				"submi",
+				"submitAnswer"
+			],
+			[
+				"an",
+				"answer_mode"
+			],
+			[
+				"regi",
+				"registerDontTouch"
+			],
+			[
+				"loadPro",
+				"loadProperties"
+			],
+			[
+				"load",
+				"loadProperties"
+			],
+			[
+				"resi",
+				"resize_trigger"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packge ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rein	",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"dein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei	",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"idn	",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"red",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/config/deploy.rb",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/config/deploy/production.rb",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/.env",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/.env.example",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/config/environments/development.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/config/environments/production.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/header.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/.gitignore",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/composer.json",
+		"/C/Users/Gustavo/.ssh/my-personal-key.key",
+		"/C/Users/Gustavo/.ssh/my-personal-key.pub",
+		"/C/Users/Gustavo/.ssh/id_rsa.pub",
+		"/C/Users/Gustavo/.ssh/my-personal-key.ppk",
+		"/C/Users/Gustavo/.ssh/faprender-edx-aws.key",
+		"/C/Users/Gustavo/.ssh/id_rsa",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/Gemfile",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/.gitignore",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/front-page.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/footer.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/functions.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/partials/generalfooter.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/partials/homepagefooter.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/style.css",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/sidebar-footer3.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/sidebar-footer1.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/sidebar-footer2.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/search.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/archive.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/partials/searchlist.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/partials/searchlist",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/partials/postcall.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/assets/css/site.css",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/partials/topbar.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/comments.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/page.php",
+		"/C/Users/Gustavo/AppData/Local/Temp/fz3temp-1/production.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/index.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/.DS_Store",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/assets/js/jquery.sticky-kit.min.js",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/single.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/404.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/partials/herostart.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/partials/contentstart.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/partials/contentend.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/partials/heroend.php",
+		"/C/Users/Gustavo/Desktop/Dev/Mixture/Site Fundacao/templates/index.liquid",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/config/environments/production.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/style.css",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/.env",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/wp-config.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose - production/config/environments/production.php",
+		"/C/Users/Gustavo/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/wp/wp-config-sample.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose - production/web/wp/wp-content/index.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose - production/config/application.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/config/application.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/.env.example",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/header.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/footer.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/functions.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/content-page.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/content-search.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/content-single.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/content.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/widgets/fp-latest-posts.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/widgets/fp-portfolio.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/inc/template-tags.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/index.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/404.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/js/custom.js",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/widgets/fp-services.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/search.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/single.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/template-business.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/archive.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/page.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/content-none.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/languages/intro.pot",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/js/smooth-scroll.js",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/.htaccess",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/widgets/fp-about.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/widgets/fp-call-to-action.php",
+		"/C/Users/Gustavo/Google Drive/Aprender/Tecnologia e Gestão/Projetos/Goose/Projeto Site/hero1.jpg",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/widgets/fp-testimonials.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/inc/custom-header.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/inc/rows.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/inc/extras.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/styles.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/inc/customizer.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/widgets/fp-facts.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/widgets/fp-employees.php",
+		"/C/Users/Gustavo/Desktop/Dev/Mixture/Site Fundacao/assets/scss/site.scss",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/goose/web/app/themes/intro/page_front-page.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/web/app/themes/naked-wordpress-master/page-home.php",
+		"/C/Users/Gustavo/Desktop/Dev/Mixture/Site Fundacao/templates/history.liquid",
+		"/C/Users/Gustavo/Desktop/Dev/Mixture/Site Fundacao/templates/includes/navigation.liquid",
+		"/C/Users/Gustavo/Desktop/Dev/Mixture/Site Fundacao/templates/includes/scripts.liquid",
+		"/C/Users/Gustavo/Desktop/Dev/Mixture/Site Fundacao/templates/layouts/pages.liquid",
+		"/C/Users/Gustavo/Desktop/Dev/Mixture/Site Fundacao/bower_components/foundation/scss/foundation/components/_offcanvas.scss",
+		"/C/Users/Gustavo/Desktop/Dev/Mixture/Site Fundacao/templates/layouts/layout.liquid",
+		"/C/Users/Gustavo/Desktop/Dev/Mixture/Site Fundacao/assets/js/jquery.sticky-kit.min.js",
+		"/C/MPG2/Dev/Mixture/Site Fundacao/templates/layouts/layout.liquid",
+		"/C/MPG2/Dev/Mixture/Site Fundacao/templates/index.liquid",
+		"/C/MPG2/Dev/Mixture/Site Fundacao/assets/scss/site.scss",
+		"/C/MPG2/Dev/Mixture/Site Fundacao/templates/includes/scripts.liquid",
+		"/C/MPG2/Dev/Mixture/Site Fundacao/assets/scss/_settings.scss",
+		"/C/MPG2/Dev/Mixture/Site Fundacao/mixture.json",
+		"/C/MPG2/Dev/Mixture/Site Fundacao/bower_components/foundation/scss/foundation/_settings.scss",
+		"/C/MPG2/Dev/Mixture/Site Fundacao/bower_components/foundation/scss/foundation.scss",
+		"/C/MPG2/Dev/Mixture/Site Fundacao/assets/css/foundation.css",
+		"/C/MPG2/Dev/Mixture/Site Fundacao/assets/css/foundation.min.css",
+		"/C/MPG2/Dev/Mixture/oabdireto-site/assets/scss/app.scss",
+		"/C/MPG2/Dev/Mixture/oabdireto-app/assets/scss/app.scss",
+		"/C/MPG2/Dev/Mixture/Site Fundacao/bower_components/foundation/scss/normalize.scss",
+		"/C/MPG2/Dev/Mixture/Site Fundacao/assets/css/site.min.css",
+		"/C/MPG2/Dev/Wordpress/faprender/web/app/themes/aprender-site-v1/assets/manifest.json",
+		"/C/MPG2/Dev/Wordpress/faprender/web/app/themes/aprender-v1/scss/site/_global.scss",
+		"/C/MPG2/Dev/Wordpress/faprender/web/app/themes/aprender-v1/scss/site/_topbar.scss",
+		"/C/MPG2/Dev/Wordpress/faprender/web/wp-config.php",
+		"/C/MPG2/Dev/Wordpress/faprender/web/wp/wp-content/themes/aprender-alpha/lib/config.php",
+		"/C/MPG2/Dev/Wordpress/faprender/web/wp/wp-content/themes/aprender-alpha/lang/sage.pot",
+		"/C/MPG2/Dev/Wordpress/faprender/web/wp/wp-content/themes/aprender-alpha/lib/init.php",
+		"/C/MPG2/Dev/Wordpress/faprender/web/app/themes/aprender-site-v1/lib/config.php",
+		"/C/MPG2/Dev/Wordpress/faprender/web/wp/wp-config-sample.php",
+		"/C/MPG2/Dev/Frontend/oabdireto-ux/README.md",
+		"/C/Users/g00740373/Desktop/PESSOAL/DEV/oabdireto-ux/.gitignore",
+		"/C/Users/g00740373/Desktop/PESSOAL/DEV/test2/.gitignore",
+		"/C/Users/g00740373/Desktop/PESSOAL/DEV/test2/README.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"blo",
+			"'",
+			"',",
+			"='",
+			"=",
+			"’",
+			"‘",
+			"class=\"\"",
+			")",
+			"rem-calc(",
+			"client",
+			"type",
+			"sidebar",
+			"All ",
+			"<a",
+			"min-w",
+			"parall",
+			"parallax",
+			"full",
+			"#TopBarNavigation",
+			"#header-banner",
+			"3",
+			"radius(999",
+			"radius(9",
+			"radius(99",
+			"radius(9",
+			"px",
+			"px)",
+			"rem-calc(",
+			")",
+			"rem-calc(",
+			")",
+			"rem-calc(",
+			"[0-9]*px",
+			"kill-flicker",
+			"z-index",
+			" class=\"top-bar-button\"",
+			"small-centered",
+			"small-text-center",
+			"-8",
+			"8",
+			"$menu-icon-width",
+			"$menu-icon-height",
+			"FFFFFF",
+			"wrapReq",
+			"columns",
+			"\">",
+			" data-stellar-background-ratio=\"0.5\"",
+			"data-stellar-background-ratio=\"0.5\"",
+			"psicopedagógica",
+			"h1",
+			"h6",
+			"</span>",
+			"<span>",
+			"255",
+			"100px",
+			"//  ",
+			"  $",
+			"  $b",
+			" $",
+			"$",
+			"$bar",
+			"//",
+			"// ",
+			"navigation",
+			"> ",
+			"antenimiento y operación",
+			"mantenimiento y operación",
+			"mantenimiento operación y",
+			"^Realice el ",
+			"Realice el ",
+			"sistema administración",
+			"Realizar sistema administración",
+			"^\\w{1,1}",
+			"[0-9]{1,2}\\. ",
+			"^.*",
+			"^*",
+			"feijão",
+			"\\([b-d]{1,1}\\)",
+			"^\\n",
+			";\"[a-d]\";",
+			"Nível [1-3] [:]",
+			"Nível [1-3] [–]",
+			";\"[a-d]{1}\";",
+			"[-–] [a-d]$",
+			"[-–] [a-f]{1}",
+			"- [a-f]",
+			"\" ",
+			"\\(a\\)	",
+			"\\([b-d]{1}\\)	",
+			"\\(a\\)",
+			"\"[0-9]{1,2}\";\"",
+			"[0-9]{1,2}\\)",
+			"\\.$",
+			"[0-9]{1,}\\. ",
+			"[0-9]{1,}\\.",
+			"[0-9]*\\. ",
+			"2. ",
+			"[0-9]*\\. ",
+			"etc …",
+			"[0-9]*\\. ",
+			"（",
+			"）",
+			"--------------------",
+			"\"$",
+			"^\"",
+			"^\\n",
+			"\\n",
+			"	*OPTS*",
+			"	*CONTENT*	",
+			"<br />",
+			"</p>",
+			"<p>",
+			"<BR>",
+			"data-y=\"",
+			"data-x",
+			"> <",
+			"$question-bar",
+			"block",
+			"$top-bar-height",
+			"</a>",
+			"1",
+			"> <",
+			"button",
+			"> <",
+			" [secondary alert success]",
+			"> <",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"etc.",
+			"",
+			"(",
+			")",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 30.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true
+}
