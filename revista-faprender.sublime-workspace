@@ -359,6 +359,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "web/app/themes/revista-aprender/header.php",
+			"settings":
+			{
+				"buffer_size": 3731,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -488,6 +496,19 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/revista-faprender/.gitignore",
+		"/C/Users/Gustavo/Downloads/revista-faprender-wordpress.sql",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/revista-faprender/web/app/themes/revista-aprender/style.css",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/revista-faprender/web/app/themes/revista-aprender/footer.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/revista-faprender/composer.json",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/revista-faprender/config/deploy.rb",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/revista-faprender/config/deploy/production.rb",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/revista-faprender/web/app/languages/themes/twentyfifteen-pt_BR.po",
+		"/C/Users/Gustavo/Desktop/twentyfifteen-pt_BR.mo",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/revista-faprender/web/app/themes/revista-aprender/languages/twentyfifteen.pot",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/revista-faprender/web/app/themes/revista-aprender/sidebar.php",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/revista-faprender/.env",
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/revista-faprender/config/environments/development.php",
 		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/config/deploy.rb",
 		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/config/deploy/production.rb",
 		"/C/Users/Gustavo/Desktop/Dev/Wordpress/faprender/.env",
@@ -602,20 +623,7 @@
 		"/C/MPG2/Dev/Mixture/oabdireto-site/assets/scss/app.scss",
 		"/C/MPG2/Dev/Mixture/oabdireto-app/assets/scss/app.scss",
 		"/C/MPG2/Dev/Mixture/Site Fundacao/bower_components/foundation/scss/normalize.scss",
-		"/C/MPG2/Dev/Mixture/Site Fundacao/assets/css/site.min.css",
-		"/C/MPG2/Dev/Wordpress/faprender/web/app/themes/aprender-site-v1/assets/manifest.json",
-		"/C/MPG2/Dev/Wordpress/faprender/web/app/themes/aprender-v1/scss/site/_global.scss",
-		"/C/MPG2/Dev/Wordpress/faprender/web/app/themes/aprender-v1/scss/site/_topbar.scss",
-		"/C/MPG2/Dev/Wordpress/faprender/web/wp-config.php",
-		"/C/MPG2/Dev/Wordpress/faprender/web/wp/wp-content/themes/aprender-alpha/lib/config.php",
-		"/C/MPG2/Dev/Wordpress/faprender/web/wp/wp-content/themes/aprender-alpha/lang/sage.pot",
-		"/C/MPG2/Dev/Wordpress/faprender/web/wp/wp-content/themes/aprender-alpha/lib/init.php",
-		"/C/MPG2/Dev/Wordpress/faprender/web/app/themes/aprender-site-v1/lib/config.php",
-		"/C/MPG2/Dev/Wordpress/faprender/web/wp/wp-config-sample.php",
-		"/C/MPG2/Dev/Frontend/oabdireto-ux/README.md",
-		"/C/Users/g00740373/Desktop/PESSOAL/DEV/oabdireto-ux/.gitignore",
-		"/C/Users/g00740373/Desktop/PESSOAL/DEV/test2/.gitignore",
-		"/C/Users/g00740373/Desktop/PESSOAL/DEV/test2/README.md"
+		"/C/MPG2/Dev/Mixture/Site Fundacao/assets/css/site.min.css"
 	],
 	"find":
 	{
@@ -633,6 +641,11 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"-",
+			"Alignments",
+			"site-footer",
+			"center",
+			"20%",
 			"blo",
 			"'",
 			"',",
@@ -755,12 +768,7 @@
 			"$top-bar-height",
 			"</a>",
 			"1",
-			"> <",
-			"button",
-			"> <",
-			" [secondary alert success]",
-			"> <",
-			">\n"
+			"> <"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -784,8 +792,36 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "web/app/themes/revista-aprender/header.php",
+					"settings":
+					{
+						"buffer_size": 3731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1716,
+								1716
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -849,6 +885,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 219.0,
+	"side_bar_width": 279.0,
 	"status_bar_visible": true
 }

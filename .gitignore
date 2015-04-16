@@ -18,7 +18,9 @@ web/app/w3tc-config/*
 # Updraft Backup
 web/app/updraft/*
 
-
+# Sublime2
+*.sublime-workspace
+*.sublime-project
 
 # WordPress
 web/wp
@@ -43,3 +45,5 @@ node_modules
 # Vagrant
 bin
 .vagrant
+
+*.sublime-workspace
