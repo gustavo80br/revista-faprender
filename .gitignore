@@ -47,3 +47,5 @@ bin
 .vagrant
 
 *.sublime-workspace
+revista-faprender.sublime-workspace
+*.sublime-workspace

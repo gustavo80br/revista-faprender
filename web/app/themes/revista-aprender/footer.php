@@ -24,7 +24,7 @@
 			?>
 			
 			<div id="faprender-link">
-				<p align="center">Este é um projeto da Fundação APRENDER. <a target="_blank" href="http://ww.fundacaoaprender.org.br/" title="Site da Fundação Aprender">Saiba Mais.</a>
+				<p align="center">Este é um projeto da Fundação APRENDER. <a target="_blank" href="http://www.fundacaoaprender.org.br/" title="Site da Fundação Aprender">Saiba Mais.</a>
 				<a target="_blank" href="http://www.fundacaoaprender.org.br/" title="Site da Fundação Aprender"><img class="faprender-logo aligncenter" src="<?php bloginfo('template_url'); ?>/images/fundacao-logo.png" alt="Fundação Aprender"/></a>
 			</div>
 

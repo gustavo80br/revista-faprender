@@ -359,14 +359,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "web/app/themes/revista-aprender/header.php",
-			"settings":
-			{
-				"buffer_size": 3731,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -496,6 +488,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Gustavo/Desktop/Dev/Wordpress/revista-faprender/web/app/themes/revista-aprender/header.php",
 		"/C/Users/Gustavo/Desktop/Dev/Wordpress/revista-faprender/.gitignore",
 		"/C/Users/Gustavo/Downloads/revista-faprender-wordpress.sql",
 		"/C/Users/Gustavo/Desktop/Dev/Wordpress/revista-faprender/web/app/themes/revista-aprender/style.css",
@@ -622,8 +615,7 @@
 		"/C/MPG2/Dev/Mixture/Site Fundacao/assets/css/foundation.min.css",
 		"/C/MPG2/Dev/Mixture/oabdireto-site/assets/scss/app.scss",
 		"/C/MPG2/Dev/Mixture/oabdireto-app/assets/scss/app.scss",
-		"/C/MPG2/Dev/Mixture/Site Fundacao/bower_components/foundation/scss/normalize.scss",
-		"/C/MPG2/Dev/Mixture/Site Fundacao/assets/css/site.min.css"
+		"/C/MPG2/Dev/Mixture/Site Fundacao/bower_components/foundation/scss/normalize.scss"
 	],
 	"find":
 	{
@@ -792,36 +784,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "web/app/themes/revista-aprender/header.php",
-					"settings":
-					{
-						"buffer_size": 3731,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1716,
-								1716
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
