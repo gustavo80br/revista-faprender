@@ -5,13 +5,13 @@ set :stage, :production
 #role :app, %w{deploy@example.com}
 #role :web, %w{deploy@example.com}
 #role :db,  %w{deploy@example.com}
-role :app, %w{ubuntu@ec2-52-5-168-163.compute-1.amazonaws.com}
-role :web, %w{ubuntu@ec2-52-5-168-163.compute-1.amazonaws.com}
-role :db, %w{ubuntu@ec2-52-5-168-163.compute-1.amazonaws.com}
+role :app, %w{ubuntu@ec2-52-5-23-90.compute-1.amazonaws.com}
+role :web, %w{ubuntu@ec2-52-5-23-90.compute-1.amazonaws.com}
+role :db, %w{ubuntu@ec2-52-5-23-90.compute-1.amazonaws.com}
 
 # Extended Server Syntax
 # ======================
-server 'ec2-52-5-168-163.compute-1.amazonaws.com', user: 'ubuntu', roles: %w{web app db}
+server 'ec2-52-5-23-90.compute-1.amazonaws.com', user: 'ubuntu', roles: %w{web app db}
 
 # you can set custom ssh options
 # it's possible to pass any option but you need to keep in mind that net/ssh understand limited list of options
